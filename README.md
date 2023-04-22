@@ -1,4 +1,4 @@
-# Troll programe made with python
+# Troll program made with python.
 
 ***_INFO:_***
 
