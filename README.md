@@ -1,9 +1,13 @@
 # Troll programe made with python
 
 ***_INFO:_***
+
 **AUTHOR:** ***EL GUAPO***
+
 **VERSION:** ***1.0***
+
 **DATE:** ***4-20-23***
+
 **USAGE:** ***FREE***
 
 **THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY!**
